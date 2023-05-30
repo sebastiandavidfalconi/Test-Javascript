@@ -1,3 +1,8 @@
+# Nombre: Sebastian Falconi
+# NRC: 10047
+# Asignatura: Desarrollo Web para Integraciones
+# Test de Ejercicios de Programación en JavaScript 🚀💻
+
 # Ejercicios Resueltos de JavaScript
 
 En este repositorio encontrarás los ejercicios resueltos correspondientes a los siguientes enunciados de JavaScript:
